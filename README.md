@@ -1,2 +1,2 @@
 # thiranex
-intenship project
+internship project
