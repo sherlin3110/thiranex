@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You have won a free iPhone. Click here now!",phishing
+"Verify your bank account immediately using this link.",phishing
+"Urgent action required. Login to claim your reward.",phishing
+"Your account will be suspended. Update credentials now.",phishing
+"Meeting scheduled tomorrow at 11 AM.",safe
+"Project report attached for review.",safe
+"Thank you for your purchase.",safe
+"Your order has been shipped successfully.",safe
+"Join the team meeting this afternoon.",safe
+"Invoice attached. Please check.",safe
